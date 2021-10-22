@@ -1,3 +1,3 @@
-<center>## Hello Thats Alper here
+## Hello Thats Alper here
 
-This is my personal Web-Site
+<center>This is my personal Web-Site
